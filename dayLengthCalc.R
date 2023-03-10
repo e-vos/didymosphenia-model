@@ -1,17 +1,12 @@
 # File: dayLengthCalc.R
 # Author: Elliot V. Vosburgh
-# Date: (last updated) 6 March 2023
+# Date: (last updated) 10 March 2023
 # Description:
 #   
 #   This file contains calculations necessary for
 #   generating a vector of day lengths based upon
 #   a specific latitude and longitude. It uses the
 #   `suncalc` package.
-
-# ADD THIS TO THE MAIN SCRIPT FILE IF INCLUDING FROM THIS FILE:
-
-# # Source other script files in the same directory
-# source("dayLengthCalc.R")
 
 library(suncalc)
 
@@ -37,4 +32,5 @@ dayLenDataFrame <- data.frame(day_number = 1:length(day_lengths),
                               day_length = day_lengths, 
                               difference = c(0, abs(diff(day_lengths))))
 
-write.csv(df, file = "day_lengths.csv", row.names = FALSE)
+## Write data to comma-separated values (.csv) file with columns day_number, day_length, and difference
+# write.csv(df, file = "day_lengths.csv", row.names = FALSE)
