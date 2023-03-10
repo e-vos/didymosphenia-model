@@ -8,7 +8,9 @@ Per the [USGS Didymosphenia geminata fact sheet](https://nas.er.usgs.gov/queries
 
 >Didymosphenia geminata can be found in freshwater rivers, streams and lakes. This taxon prefers cool water of low conductivity (Patrick and Reimer 1975) ... The species is predominantly benthic but has been observed in planktonic samples (Blanco and Ector 2009). It prefers clear streams and rivers with shallow, moderately-flowing water with a pH of 7 or above and rocky substrate (MISIN 2017; Sea Grant Pennsylvania 2013; Spaulding and Elwell 2007). Historically the species was restricted to low-nutrient waters but has recently seen large range expansions reportedly occurring in eutrophic rivers, showing much greater tolerance for nutrient and flow conditions than previously expected. This may be attributed to a genetic variant with broader tolerances than the original species.  Nuisance benthic growths are only known to occur in flowing water.  While this species seems to be confined to cold areas, it reaches its highest biomass at higher water temperatures of ~20°C (Blanco and Ector 2009). It has also been observed at temperatures of 27°C (Spaulding and Elwell 2007).
 
-Given its ability to survive out of water for several weeks, its introduction into new systems is a major environmental concern. According to the Rhode Island Department of Environmental Management, "Nuisance didymo blooms can completely cover the stream bottom, smothering aquatic plants, native mussel beds and ruining habitat for beneficial insects."
+Given its ability to survive out of water for several weeks, its introduction into new systems is a major environmental concern. According to the Rhode Island Department of Environmental Management, 
+
+>Nuisance didymo blooms can completely cover the stream bottom, smothering aquatic plants, native mussel beds and ruining habitat for beneficial insects.
 
 To prevent its spread, several states have banned the use of felt soled boots and waders entirely. Its ability to remain viable out of water for such an extended length of time, however, poses difficulties in preventing its spread to susceptible areas.
 
